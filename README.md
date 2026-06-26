@@ -2,17 +2,17 @@
 
 ---
 
-[link del Desafio]()
+[link del Desafio](https://adol-33.github.io/Desafio-1-javascript/)
 
 ## Elementos del DOM
 
-Seleccion de los elementos de DOM con querySelector(), para tomar varlos y actualizar valores en el texto.
+Selección de los elementos de DOM con querySelector(), para seleccionar etiquetas y actualizar valores en el texto.
 
 ---
 
 ## Contador
 
-En este dsafio teniamos que agregar funcionalidad a los botones "+" y "-" con funciones.
+En este dsafío teniamos que agregar funcionalidad a los botones "+" y "-" con funciones.
 
 ## Botones
 
