@@ -10,6 +10,28 @@ body {
   align-items: center;
   font-family: sans-serif;
 }
+header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  background-color: #7ba238;
+  letter-spacing: 1px;
+  font-weight: 100;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+header p {
+  padding: 1em;
+  border-radius: 5px;
+  color: #333;
+  background-color: white;
+}
 
 .card {
   color: rgba(255, 255, 255, 0.931);
@@ -63,4 +85,14 @@ body {
   background-color: black;
   border-radius: 50%;
   border: solid 1px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  /* left: 0; */
+  width: 100%;
+  text-align: center;
+  padding: 1em;
+  color: white;
+  background-color: #7ba238;
 }
